@@ -1,7 +1,7 @@
 ### Hello, I'm Samantha (or just Sam)! 👋
 
 - 🔭 I work in front-end development with HTML5, CSS3, ReactJS, NextJS, SASS or styled-components and more.
-- 🌱 I'm studying GraphQL, tests with Jest and React Testing Library and NodeJS.
+- 🌱 I'm studying Typescript, GraphQL, tests with Jest and React Testing Library and NodeJS.
 - ✨ I'm also interested in mobile development,UX/UI design and photography.
 
 <div align="center">
