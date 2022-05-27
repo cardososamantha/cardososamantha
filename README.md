@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Samantha (or just Sam)! 👋
 
 <!--
 **cardososamantha/cardososamantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
