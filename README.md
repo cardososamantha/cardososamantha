@@ -1,6 +1,16 @@
 ### Hello, I'm Samantha (or just Sam)! 👋
 
-<!--
+- 🔭 I work in front-end development with HTML5, CSS3, ReactJS, NextJS, SASS or styled-components and more.
+- 🌱 I'm studying GraphQL, tests with Jest and React Testing Library and NodeJS.
+- ✨ I'm also interested in mobile development,UX/UI design and photography.
+
+<div align="center">
+  <a href="https://github.com/EnzoNoda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardososamantha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNoda&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+  <!--
 **cardososamantha/cardososamantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,9 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <a href="https://github.com/EnzoNoda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardososamantha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNoda&layout=compact&langs_count=7&theme=radical"/>
-</div>
