@@ -3,6 +3,7 @@
 - 🔭 I work in front-end development with HTML5, CSS3, ReactJS, NextJS, SASS or styled-components and more.
 - 🌱 I'm studying Typescript, GraphQL, tests with Jest and React Testing Library and NodeJS.
 - ✨ I'm also interested in mobile development,UX/UI design and photography.
+- 🌠 Check my studies with CSS animations <a href="https://codepen.io/cardososamantha">here</a>.
 
 <div align="center">
   <a href="https://github.com/EnzoNoda">
