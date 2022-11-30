@@ -10,28 +10,26 @@
 <div align="center">  
   
 ### Skills
-    
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white?logoWidth=40)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![styled-components](https://img.shields.io/badge/styled%20components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying
-    
-![Jest](https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&labelColor=E34F26)&nbsp;
+![Jest](https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=E34F26)&nbsp;
 ![Node.JS](https://img.shields.io/badge/node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
+    
 </div>
 
 
