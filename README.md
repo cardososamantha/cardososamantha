@@ -1,9 +1,7 @@
-<div class="main-title">
-    <h2>Hello there, I'm Samantha!<h2>
-    <h3>Front-end Developer</h3>
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CB4D89&text=Samantha%20Cardoso&animation=twinkling"/>
+    
 </div>
-
-<br/>
 
 <div>
       <p aling=justify> I'm a front-end developer mid level with a strong passion for UI and UX design, software quality and acessibility. Currently working with React.js and studying software testing, front-end documentation with Storybook, clean arch and design patterns.</p> 
