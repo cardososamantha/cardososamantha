@@ -21,14 +21,16 @@
 
 ### Studying
 ![Jest](https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=E34F26)&nbsp;
-![Node.JS](https://img.shields.io/badge/node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm)&nbsp;
     
 </div>
 
