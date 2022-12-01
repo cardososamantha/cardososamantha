@@ -1,7 +1,6 @@
 <samp>
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CB4D89&text=Samantha%20Cardoso&animation=fadeIn"/>
-    
+    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CB4D89&text=Samantha Cardoso&animation=twinkling"/>
 </div>
 
 <div>
