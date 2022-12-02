@@ -27,6 +27,9 @@
 ![Node.JS](https://img.shields.io/badge/node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonAWS&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=blue)&nbsp;
