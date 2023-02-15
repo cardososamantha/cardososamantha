@@ -4,7 +4,7 @@
 </div>
 
 <div>
-      <p align=justify> I'm a front-end developer mid level with a strong passion for UI and UX design, software quality and acessibility. Currently working with React.js and studying software testing, front-end documentation with Storybook, clean arch and design patterns.</p> 
+      <p align=justify> I'm a mid level front-end developer with a strong passion for UI and UX design, software quality and acessibility. Currently working with React.js and studying software testing, front-end documentation with Storybook, clean arch and design patterns.</p> 
 </div>
 
 ##
