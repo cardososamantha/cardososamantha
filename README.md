@@ -6,7 +6,7 @@
 <br>
 
 <p><i>
-A person who enjoys front-end development, design and art in general. ✨
+A person who loves front-end development, design and art in general. ✨
 </i></p>
 <br>
 
