@@ -1,51 +1,49 @@
-<samp>
-<div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CB4D89&text=Samantha%20Cardoso&animation=fadeIn"/>
+<h1 align="center"> Samantha Cardoso </h1>
+
+<div align="center">
+<b>Front-end Developer</b>
+<br>
+<br>
+
+<p><i>
+A person who enjoys front-end development, design and art in general. ✨
+</i></p>
+<br>
+
 </div>
 
-<div>
-      <p align=justify> I'm a mid level front-end developer with a strong passion for UI and UX design, software quality and acessibility. Currently working with React.js and studying software testing, front-end documentation with Storybook, clean arch and design patterns.</p> 
-</div>
+<div align="center">
 
-##
-
-<div align="center">  
-  
-### Skills
-       
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![styled-components](https://img.shields.io/badge/styled%20components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Studying
-![Jest](https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=E34F26)&nbsp;
-![Node.JS](https://img.shields.io/badge/node.JS-0D1117?style=for-the-badge&logo=node.js&textColor=0D1117)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonAWS&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=blue)&nbsp;
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/*)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
+[![Exercism](https://img.shields.io/badge/exercism-%230077B5.svg?style=for-the-badge&logo=exercism&logoColor=white&labelColor=604FCD&color=604FCD)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
     
+ </div>
+
+---
+
+<div align="right">
+     <a href="https://github.com/cardososamantha">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardososamantha&langs_count=6&layout=compact&&show_icons=true&line_height=27&langs_count=10"
+        alt="Most used languages" align="right">
+    </a>
 </div>
 
-##
-  
-<div align=center>
-    <a href="https://github.com/cardososamantha">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cardososamantha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardososamantha&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
-</samp>
+Hey there! I'm Samantha, aka [**@cardososamantha**](https://github.com/cardososamantha). 👋😊
+
+I'm a front-end developer with a strong passion for UI/UX design, software quality and topics of acessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns and a bit of back-end development and cloud.
+
+My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **SaSS**, **styled-components** and **Typescript**.
+
+I am also comfortable using **Typescript**, **Mobx**, **Vite**, **Jest**, and **Node.js**.
+
+I am currently working as a _Mid-Level Front-end Developer_ for [Junto Seguros](**). 
+
+---
+
+<div align="center">
+
+
+
+</div>
