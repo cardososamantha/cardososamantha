@@ -16,7 +16,7 @@ A person who loves front-end development, design and art in general. ✨
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/stardustie_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
-[![Exercism](https://img.shields.io/badge/exercism-%230077B5.svg?style=for-the-badge&logo=exercism&logoColor=white&labelColor=604FCD&color=604FCD)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
+[![Exercism](https://img.shields.io/badge/exercism-%230077B5.svg?style=for-the-badge&logo=exercism&logoColor=white&labelColor=604FCD&color=604FCD)](https://exercism.org/profiles/cardososamantha)
     
  </div>
 
