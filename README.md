@@ -30,13 +30,13 @@ A person who loves front-end development, design and art in general. ✨
 </div>
 
 
-Hey there! I'm Samantha, aka [**@cardososamantha**](https://github.com/cardososamantha). 👋😊
+Hey there! I'm <i>Samantha</i>, aka [**@cardososamantha**](https://github.com/cardososamantha). 👋😊
 
 I'm a front-end developer with a strong passion for UI/UX design, software quality and topics of acessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns and a bit of back-end development and cloud.
 
-My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **SaSS**, **styled-components** and **Typescript**.
+My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **SASS**, **styled-components** and **Typescript**.
 
-I am also comfortable using **Typescript**, **Mobx**, **Vite**, **Jest**, and **Node.js**.
+I'm also comfortable using **Mobx**, **Vite**, **Jest**, **Storybook**, **Figma** and </br> I can managed with some help with **Node.js** and **back-end development**.
 
 I am currently working as a _Mid-Level Front-end Developer_ for [Junto Seguros](**). 
 
