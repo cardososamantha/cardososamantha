@@ -36,7 +36,7 @@ I'm a front-end developer with a strong passion for UI/UX design, software quali
 
 My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **SASS**, **styled-components** and **Typescript**.
 
-I'm also comfortable using **Mobx**, **Vite**, **Jest**, **Storybook**, **Figma** and </br> I can managed with some help with **Node.js** and **back-end development**.
+I'm also comfortable using state managment libraries like **Mobx** and **Redux**, front-end tooling </br> like **Vite** and **Webpack**, **Jest**, **Storybook**, **Figma** and I can managed with some help with </br> **Node.js** and **back-end development**.
 
 I am currently working as a _Mid-Level Front-end Developer_ for [Junto Seguros](**). 
 
