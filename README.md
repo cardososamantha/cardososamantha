@@ -6,7 +6,7 @@
 <br>
 
 <p><i>
-A person who loves front-end development, design and art in general. ✨
+A person who loves front-end development, design, and art in general. ✨
 </i></p>
 <br>
 
@@ -22,21 +22,13 @@ A person who loves front-end development, design and art in general. ✨
 
 ---
 
-<div align="right">
-     <a href="https://github.com/cardososamantha">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardososamantha&langs_count=6&layout=compact&&show_icons=true&line_height=27&langs_count=10"
-        alt="Most used languages" align="right">
-    </a>
-</div>
-
-
 Hey there! I'm <i>Samantha</i>, aka [**@cardososamantha**](https://github.com/cardososamantha). 👋😊
 
-I'm a front-end developer with a strong passion for UI/UX design, software quality and topics of acessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns and a bit of back-end development and cloud.
+I'm a front-end developer with a strong passion for UI/UX design, software quality, and topics of accessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns, and a bit of back-end development and cloud.
 
-My main knowledge in technologies are **Javascript**, **React**, **Next.js**, **SASS**, **styled-components** and **Typescript**.
+My main knowledge in technologies is **Javascript**, **React**, **Next.js**, **SASS**, **styled-components** and **Typescript**.
 
-I'm also comfortable using state managment libraries like **Mobx** and **Redux**, front-end tooling </br> like **Vite** and **Webpack**, **Jest**, **Storybook**, **Figma** and I can managed with some help with </br> **Node.js** and **back-end development**.
+I'm also comfortable using state management libraries like **Mobx** and **Redux**, front-end tooling like **Vite** and **Webpack**, **Jest**, **Storybook**, **Figma** and I can manage with some help with **Node.js** and **back-end development**.
 
 I am currently working as a _Mid-Level Front-end Developer_ for [Junto Seguros](**). 
 
