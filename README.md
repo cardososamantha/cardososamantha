@@ -1,4 +1,4 @@
-![Header](https://github.com/cardososamantha/cardososamantha/assets/81335260/d0c87034-59e5-4bce-a92f-f6ef84fabbc9)
+[![Header](https://github.com/cardososamantha/cardososamantha/assets/81335260/d0c87034-59e5-4bce-a92f-f6ef84fabbc9)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
 
 
 
