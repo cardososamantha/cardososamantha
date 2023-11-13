@@ -1,16 +1,6 @@
-<h1 align="center"> Samantha Cardoso </h1>
+![Header](https://github.com/cardososamantha/cardososamantha/assets/81335260/d0c87034-59e5-4bce-a92f-f6ef84fabbc9)
 
-<div align="center">
-<b>Front-end Developer</b>
-<br>
-<br>
 
-<p><i>
-A person who loves front-end development, design, and art in general. ✨
-</i></p>
-<br>
-
-</div>
 
 <div align="center">
 
@@ -22,9 +12,9 @@ A person who loves front-end development, design, and art in general. ✨
 
 ---
 
-Hey there! I'm <i>Samantha</i>, aka [**@cardososamantha**](https://github.com/cardososamantha). 👋😊
+Hey there! I'm <i>Samantha</i>. 👋😊
 
-I'm a front-end developer with a strong passion for UI/UX design, software quality, and topics of accessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns, and a bit of back-end development and cloud.
+I'm a software engineer/front-end developer with a strong passion for UI/UX design, software quality, and topics of accessibility. I'm currently working with React.js and studying software testing, front-end documentation, design patterns, and a bit of back-end development and cloud.
 
 My main knowledge in technologies is **Javascript**, **React**, **Next.js**, **SASS**, **styled-components** and **Typescript**.
 
