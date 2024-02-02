@@ -1,10 +1,8 @@
-[![Header](https://github.com/cardososamantha/cardososamantha/assets/81335260/d0c87034-59e5-4bce-a92f-f6ef84fabbc9)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
-
-
+[![Header](https://github.com/cardososamantha/cardososamantha/assets/81335260/483a6e76-667a-4da7-85f9-d651a6ec014d)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/linkedin-67638E.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
     
  </div>
 
