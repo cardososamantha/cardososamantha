@@ -18,6 +18,6 @@
 ![Javascript](https://img.shields.io/badge/javascript-ff8cb3.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-ff8cb3.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-ff8cb3.svg?style=for-the-badge&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-ff8cb3.svg?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon-ff8cb3.svg?style=for-the-badge&logo=amazon&logoColor=white)
 
 </div>
