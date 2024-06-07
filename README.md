@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/website-ff8cb3.svg?style=for-the-badge&logo=esri&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
 [![Gmail](https://img.shields.io/badge/gmail-ff8cb3.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.samanthacardoso@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ff8cb3.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-cardoso-495468198/?locale=en_US)
+[![CodePen](https://img.shields.io/badge/codepen-ff8cb3.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/stardustie)
 
 ---
 <samp>I'm a software engineer passionate about creating impactful digital experiences through front-end development technologies.</samp>
